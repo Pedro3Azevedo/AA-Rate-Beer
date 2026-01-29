@@ -78,9 +78,9 @@ Multi-class Classification:
 Binary Classification (Approach 2: Balanced)
 |Classifier |	Errors |	Score |	Accuracy|	Precision	|Recall|	F1-Score|
 |-----------|----------|----------|---------|---------------|------|------------|
-|Logistic Regression|	215	0.9393|	94%	|0.9473	|0.9635|	0.9553|
+|Logistic Regression|	215|	0.9393|	94%	|0.9473	|0.9635|	0.9553|
 |SVM	|205	|0.9421	|94%	|0.9510|	0.9641|	0.9575|
-|-----------|----------|----------|---------|---------------|------|------------|
+
 → Both classifiers perform excellently on balanced data; SVM slightly outperforms Logistic Regression.
 
 Multi-class Classification Results
